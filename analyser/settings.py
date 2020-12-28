@@ -26,7 +26,7 @@ SECRET_KEY = '7++#m(8ojuogdp!ti*4%!9dg4a&+kab30e%l5k@c!ea#4p5)0r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://car-sales-analyser.herokuapp.com/']
 
 
 # Application definition
